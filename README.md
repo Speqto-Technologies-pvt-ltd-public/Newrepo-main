@@ -1,1 +1,2 @@
-# Newrepo-main
+# Newrepo
+Class lesson repository
